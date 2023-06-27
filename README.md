@@ -6,7 +6,7 @@
 
 Trabajar en equipo, identificar el rol del code review, entender el uso de los pull request :rocket:, solucionar problemas de conflictos :space_invader: al subir cambios en el mismo fragmento de código
 
-## :one: Primera entrega Laboratorio en grupo
+## :one: Primera entrega HTML
 
 ### Objetivo: Creación del primer documento de HTML
 

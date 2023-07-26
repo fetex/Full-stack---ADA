@@ -9,3 +9,7 @@ table {
     border: 1px solid black;
     text-align: center;
   }
+
+  i#icon_move {
+    margin-right: 80px;
+}
